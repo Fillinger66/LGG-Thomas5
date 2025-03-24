@@ -1,0 +1,22 @@
+<Persons>
+    <Person>
+        <Firstname>Alice</Firstname>
+        <Lastname>Dupont</Lastname>
+    </Person>
+    <Person>
+        <Firstname>Jean</Firstname>
+        <Lastname>Martin</Lastname>
+    </Person>
+    <Person>
+        <Firstname>Claire</Firstname>
+        <Lastname>Leclerc</Lastname>
+    </Person>
+    <Person>
+        <Firstname>Paul</Firstname>
+        <Lastname>Dubois</Lastname>
+    </Person>
+    <Person>
+        <Firstname>Sophie</Firstname>
+        <Lastname>Moreau</Lastname>
+    </Person>
+</Persons>

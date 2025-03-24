@@ -1,0 +1,22 @@
+[
+    {
+        "Firstname": "Alice",
+        "Lastname": "Dupont"
+    },
+    {
+        "Firstname": "Jean",
+        "Lastname": "Martin"
+    },
+    {
+        "Firstname": "Claire",
+        "Lastname": "Leclerc"
+    },
+    {
+        "Firstname": "Paul",
+        "Lastname": "Dubois"
+    },
+    {
+        "Firstname": "Sophie",
+        "Lastname": "Moreau"
+    }
+]
